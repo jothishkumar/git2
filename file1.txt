@@ -1,0 +1,109 @@
+    1  yum install git all
+    2  git --version
+    3  mkdir project1
+    4  cd project1
+    5  git itit
+    6  git init
+    7  nano test1. html
+    8  nano test1.html
+    9  nano test2.html
+   10  nano test3.html
+   11  git add test1.html test2.html
+   12  git add .
+   13  git status
+   14  remove test1
+   15  del test1
+   16  git status
+   17  git status
+   18  nano test4.html
+   19  git status
+   20  git commit -m "my first commit"
+   21  git status
+   22  ls
+   23  git status
+   24  git remote add origin 
+   25  git config --global user.name
+   26  git config --global user.name "jothishkumar
+   27  git config --global user.name "jothishkumar[root@ip-172-31-6-232 project1]# git remote add origin https://github.com/jothishkumar/git2.git
+   28  [root@ip-172-31-6-232 project1]# git config --global user.name
+   29  [root@ip-172-31-6-232 project1]# git config --global user.name "jothishkumar
+   30  > git config --global user.name "jothishkumar
+   31  [root@ip-172-31-6-232 project1]# git remote add origin https://github.com/jothishkumar/git2.git
+   32  [root@ip-172-31-6-232 project1]# git config --global user.name
+   33  [root@ip-172-31-6-232 project1]# git remote add origin https://github.com/jothishkumar/git2.git
+   34  [root@ip-172-31-6-232 project1]# git config --global user.name
+   35  [root@ip-172-31-6-232 project1]# git config --global user.name "jothishkumar
+   36  > git config --global user.name "jothishkumar
+   37  git status
+   38  ls
+   39  project1
+   40  cd project1
+   41  ls
+   42  git status
+   43  git config --global user.name "jothishkumar"
+   44  git config --global user.email "Jothishkumar121@gmail.com"
+   45  cd project1
+   46  ls
+   47  git status
+   48  git config --list
+   49  git push origin master
+   50  git push origin master
+   51  git push origin master
+   52  nano test2.ktml
+   53  nano test2.html
+   54  git status
+   55  cd project1
+   56  ls
+   57  git tag version1
+   58  git tag 
+   59  nano test1.html
+   60  git add test1.html
+   61  git commit -m "my modification1"
+   62  git tag version2
+   63  git tag 
+   64  git config --list
+   65  git push origin version1
+   66  git push origin version2
+   67  git tag
+   68  git tag -d version1
+   69  git tag -d version2
+   70  git tag
+   71  git push origin -d version1
+   72  git tag -d version1
+   73  ls
+   74  rm -f test4.html
+   75  ls
+   76  git rm -f test3.html
+   77  git add .
+   78  git commit -m "mydeleteoperation"
+   79  git push origin master 
+   80  ls
+   81  git rm --cached test2.html
+   82  ls
+   83  git rm *
+   84  ls
+   85  git rm -f *
+   86  ls
+   87  git add test2.html
+   88  git commit -m "mycommit"
+   89  git rm -f *
+   90  ls
+   91  git status
+   92  git log
+   93  git push origin master
+   94  ls
+   95  git clone
+   96  git clone https://github.com/jothishkumar/git2.git
+   97  ls
+   98  cd git2
+   99  ls
+  100  cd ..
+  101  ls
+  102  git tag -d version2
+  103  git push origin -d version2
+  104  ls
+  105  git rm -f *
+  106  git commit -m "my deletion process"
+  107  git push origin master
+  108  history
+  109  history > file1.txt
